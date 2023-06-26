@@ -1,0 +1,33 @@
+D:\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\x86\SqlServerSpatial160.dll
+D:\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\x64\SqlServerSpatial160.dll
+D:\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+D:\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daica\OneDrive\Máy tính\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Daica\OneDrive\Máy tính\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Daica\OneDrive\Máy tính\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\Daica\OneDrive\Máy tính\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\Daica\OneDrive\Máy tính\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\Daica\OneDrive\Máy tính\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\Daica\OneDrive\Máy tính\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\Daica\OneDrive\Máy tính\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\Daica\OneDrive\Máy tính\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\Daica\OneDrive\Máy tính\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\Daica\OneDrive\Máy tính\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\Daica\OneDrive\Máy tính\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\Daica\OneDrive\Máy tính\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\Daica\OneDrive\Máy tính\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+C:\Users\Daica\OneDrive\Máy tính\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\Daica\OneDrive\Máy tính\winformCoffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
